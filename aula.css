@@ -1,0 +1,31 @@
+body {
+	background: #F0E68C
+}
+
+#banner {
+	width:49%;
+}
+
+#titulo{
+	text-align: center;
+	font-size: 40px;
+	font-style: italic;
+    text-transform: uppercase;
+    background: #FFD700
+
+}
+
+#titulo2{
+	text-align: left;
+	font-size: 35px;
+	font-style: oblique
+
+}
+
+ul{
+	background: #FFD700
+}
+
+#banner2 {
+	width: 49%
+}
